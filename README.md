@@ -36,4 +36,4 @@ Each program includes its **source code (.c)**, **compiled executable (.exe)**, 
 ### 🔹 DATA STRUCTURES
 | Program | Source Code | Output |
 |---------|-------------|--------|
-| STACK | DATA STRUCTURES | ![Output](./ARRAYS/Output/LargestNums.png) |
+| STACK | [STACK.c](./{DATASTRUCTURES}/LargestNums.c) | ![Output](./ARRAYS/Output/LargestNums.png) |
