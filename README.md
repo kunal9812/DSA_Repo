@@ -37,3 +37,4 @@ Each program includes its **source code (.c)**, **compiled executable (.exe)**, 
 | Program | Source Code | Output |
 |---------|-------------|--------|
 | STACK | [STACK.c](./DATA_STRUCTURES/STACK.C)| |
+| Infix_to_Postfix | [Infix_to_Postfix.c](./DATA_STRUCTURES/STACK.C)| |
