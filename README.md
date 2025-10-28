@@ -28,7 +28,7 @@ Each program includes its **source code (.c)**, **compiled executable (.exe)**, 
 |---------|-------------|--------|
 | Find largest number in array | [LargestNums.c](./ARRAYS/LargestNums.c) | ![Output](./ARRAYS/Output/LargestNums.png) |
 | Quick Sort implementation | [QuickSort.c](./ARRAYS/QuickSort.c) | ![Output](./ARRAYS/Output/QuickSort.png) |
-| Remove duplicates from array | [RemoveDuplicates.c](./ARRAYS/RemoveDuplicates.c) | ![Output](./ARRAYS/Output/RemoveDuplicates.png) |
+| Remove duplicates from array | [RemoveDuplicates.c](./ARRAYS/RemoveDuplicates.c) | ![Output](./ARRAYS/Output/RemoveDuplicate.png) |
 | Search element in array | [SearchElement.c](./ARRAYS/SearchElement.c) | ![Output](./ARRAYS/Output/SearchElement.png) |
 
 ---
